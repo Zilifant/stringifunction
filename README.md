@@ -2,7 +2,7 @@
 
 Convert Javascript objects to and from JSON while preserving functions/methods.
 
-Does *not* use Eval to functionizes strings. Instead, uses the slightly less diabolical Function constructor.
+Does *not* use Eval to functionizes strings. Uses slightly less diabolical Function constructor.
 
 ### How to use it:
 
@@ -11,4 +11,4 @@ stringiFunctionize(object) // Returns a JSON string.
 parseStringiFunctions(json) // Returns a JavaScript object.
 ```
 
-But first: `npm i install stringifunction` installs the thing.
+But first: `npm i stringifunction` installs the thing.
