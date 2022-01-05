@@ -1,0 +1,14 @@
+{
+  "name": "stringifunction",
+  "version": "1.0.0",
+  "description": "Convert Javascript objects to and from JSON while preserving functions/methods.",
+  "main": "stringifunction.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "JSON"
+  ],
+  "author": "Scott E. Silsbe",
+  "license": "MIT"
+}
