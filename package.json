@@ -1,15 +1,18 @@
 {
   "name": "stringifunction",
-  "version": "1.0.1",
-  "description": "Convert Javascript Objects to and from JSON while preserving functions/methods.",
+  "version": "1.0.2",
+  "description": "Convert Javascript objects to and from JSON while preserving functions/methods.",
   "main": "stringifunction.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "JSON"
+    "JSON",
+    "string manipulation",
+    "regular expression",
+    "regex"
   ],
-  "author": "Scott E. Silsbe <zilifant.code@gmail.com> (https://github.com/Zilifant)",
+  "author": "Scott Silsbe <zilifant.code@gmail.com> (https://github.com/Zilifant)",
   "license": "MIT",
   "repository": {
     "type": "git",
