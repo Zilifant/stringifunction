@@ -60,7 +60,7 @@ export function parseStringiFunctions(json) {
       return val;
     };
 
-    // Return all other values unaltered.
+    // Return all non-string values unaltered.
     return val;
   });
 };

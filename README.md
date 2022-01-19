@@ -1,8 +1,8 @@
 # StringiFunction
 
-Convert Javascript Objects to and from JSON while preserving functions/methods.
+Convert Javascript objects to and from JSON while preserving functions/methods.
 
-Does **not** use Eval to functionize strings. Uses slightly less diabolical Function constructor.
+Does *not* use `eval` to functionize strings. Uses slightly less diabolical Function constructor.
 
 ### How to use it...
 
